@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot/task" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot/task/out" />
+            <option value="$PROJECT_DIR$/Topics/Characters/A capital letter or a digit" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Comparing numbers and characters" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Digits or not" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Previous character" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Fix the program" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Right type" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/Division" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/Get last digit" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/Vowel or not" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/What should be specified" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/Define a for-loop" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/For-loop definitions" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The longest sequence" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The minimum value of N numbers" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The sum of N numbers" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/Theory" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Knights" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Positive, Negative or Zero" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Queens" />
+            <option value="$PROJECT_DIR$/Topics/If expression/The max of two numbers without else-branch" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Theory" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Triangle" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Integer division" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Next even number" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/The first digit of a two-digit number" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/The last digit of a number" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/The sum of digits" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Time difference" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Unsigned integers" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Between two numbers" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Within a range" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Within both ranges" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readLine/Fix the input" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readLine/How to learn the whole Kotlin per one task" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readLine/Read a Double" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readLine/Reversed output" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readLine/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readLine/toDouble()" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Are the numbers different" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Boys in the sport class" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Exactly one parameter is positive" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Inbetween" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Counting positive numbers" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Grades" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Maximum element divisible by 4" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Print a string exactly ten times" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Size of parts" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/Correct the code" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/First, second, third" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/Print a triangle" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/Print code" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/Tic-Tac-Toe" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/We need to learn Kotlin" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/What does the code print" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Arithmetic expression" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Date and time formatting" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Repetitions and templates" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The classification of basic types/Existing types" />
+            <option value="$PROJECT_DIR$/Topics/The classification of basic types/Max values of integer types" />
+            <option value="$PROJECT_DIR$/Topics/The classification of basic types/Size, min and max" />
+            <option value="$PROJECT_DIR$/Topics/The classification of basic types/The size of Long" />
+            <option value="$PROJECT_DIR$/Topics/The classification of basic types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The classification of basic types/Upper possible value" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Declarations" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Fix declarations" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Swap" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/val or var" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Balance checker" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Collatz conjecture" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Squares of natural numbers" />
+            <option value="$PROJECT_DIR$/Topics/While loops/The length of the sequence" />
+            <option value="$PROJECT_DIR$/Topics/While loops/The sum of elements" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/N-th symbol" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Name Card" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/The information about a person" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/The number of tens" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
